@@ -1,1 +1,7 @@
-it has nothing 
+it has nothing
+inta,b,c
+a=1
+b=3 
+c=(a+d)
+
+ 
